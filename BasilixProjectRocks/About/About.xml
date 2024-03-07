@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+<packageId>Basilix.ProjectRocks</packageId>
+
+  <!-- This is both the displayed name of your mod as well as the name used for patch targeting. -->
+  <name>Project Rocks</name>
+
+  <author>Basilix</author>
+
+  <!-- remember to update this -->
+  <modVersion>1.0</modVersion>
+
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+
+  <description>This mod is meant to add a golem race to Rimworld using the Biotech DLC.</description>
+
+</ModMetaData>
