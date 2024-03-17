@@ -8,7 +8,7 @@
     <description>Test weapon, used a tutorial on the wiki for this section</description>
     <possessionCount>1</possessionCount>
     <graphicData>
-        <texPath>ExampleMod/ExampleWeapon_Machete</texPath>
+        <texPath>ProjectRocks/Machete/ExampleWeapon_Machete</texPath>
         <graphicClass>Graphic_Single</graphicClass>
         <shaderType>CutoutComplex</shaderType>
     </graphicData>
